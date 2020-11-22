@@ -102,10 +102,7 @@ import "./../styles/App.css";
 function App() 
 {
 	return (
-	<div id="main">
-	//Do not alter main div
-
-	</div>
+	    <div id="main"></div>
 	);
 }
 
